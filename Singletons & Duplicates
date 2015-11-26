@@ -1,3 +1,5 @@
+;;Language: Intermediate student with lambda
+
 ;;(singletons los) consumes a list of number los, and produce a list
 ;;containing only those numbers that had no duplicates in the original list
 ;;Singletons: (listof Num) -> (listof Num)
